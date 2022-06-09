@@ -13,7 +13,7 @@ namespace PadwanEquipment
             var lightsaberPrice = double.Parse(Console.ReadLine());
 
             var robesPrice = double.Parse(Console.ReadLine());
-
+             
             var beltsPrice = double.Parse(Console.ReadLine());
 
             var beltCount = countOfStudents - (countOfStudents / 6);
