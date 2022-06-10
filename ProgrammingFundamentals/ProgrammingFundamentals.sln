@@ -39,21 +39,25 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Division", "Division\Divisi
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vacation", "Vacation\Vacation.csproj", "{8579E0AD-C294-467E-887F-648F3426299B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrintAndSum", "PrintAndSum\PrintAndSum.csproj", "{6BBA4F3B-7B76-41E0-9C30-DCCD53DB161F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PrintAndSum", "PrintAndSum\PrintAndSum.csproj", "{6BBA4F3B-7B76-41E0-9C30-DCCD53DB161F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Login", "Login\Login.csproj", "{F2B0EC39-B4A7-4950-AF9B-8A0A76D962B4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Login", "Login\Login.csproj", "{F2B0EC39-B4A7-4950-AF9B-8A0A76D962B4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StrongNumber", "StrongNumber\StrongNumber.csproj", "{15556068-9249-441A-B5E6-802FAB2BCEFF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StrongNumber", "StrongNumber\StrongNumber.csproj", "{15556068-9249-441A-B5E6-802FAB2BCEFF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VendingMachine", "VendingMachine\VendingMachine.csproj", "{4F60F91A-B53C-45FC-834B-1F4F975BF008}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VendingMachine", "VendingMachine\VendingMachine.csproj", "{4F60F91A-B53C-45FC-834B-1F4F975BF008}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TriangleOfNumbers", "TriangleOfNumbers\TriangleOfNumbers.csproj", "{9E5DFF5A-7CD7-4C70-8B89-408ADA9DA625}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TriangleOfNumbers", "TriangleOfNumbers\TriangleOfNumbers.csproj", "{9E5DFF5A-7CD7-4C70-8B89-408ADA9DA625}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PadwanEquipment", "PadwanEquipment\PadwanEquipment.csproj", "{B0A28E28-6692-430D-B4A5-8D99753571CD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PadwanEquipment", "PadwanEquipment\PadwanEquipment.csproj", "{B0A28E28-6692-430D-B4A5-8D99753571CD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RageExpenses", "RageExpenses\RageExpenses.csproj", "{8282F57A-BB06-4C60-8EA2-0F200C590363}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RageExpenses", "RageExpenses\RageExpenses.csproj", "{8282F57A-BB06-4C60-8EA2-0F200C590363}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Orders", "Orders\Orders.csproj", "{A78A395B-7C4F-4943-A4BE-D84D0E8673F4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Orders", "Orders\Orders.csproj", "{A78A395B-7C4F-4943-A4BE-D84D0E8673F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortNumbers", "SortNumbers\SortNumbers.csproj", "{FFA44A2F-B4AF-48D5-92A6-E28C0744961A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LastDigitInEnglish", "LastDigitInEnglish\LastDigitInEnglish.csproj", "{80AD06A5-3D24-4AE8-BD0C-A0FAC7E7F0B8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -157,6 +161,14 @@ Global
 		{A78A395B-7C4F-4943-A4BE-D84D0E8673F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A78A395B-7C4F-4943-A4BE-D84D0E8673F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A78A395B-7C4F-4943-A4BE-D84D0E8673F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFA44A2F-B4AF-48D5-92A6-E28C0744961A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFA44A2F-B4AF-48D5-92A6-E28C0744961A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFA44A2F-B4AF-48D5-92A6-E28C0744961A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFA44A2F-B4AF-48D5-92A6-E28C0744961A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80AD06A5-3D24-4AE8-BD0C-A0FAC7E7F0B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80AD06A5-3D24-4AE8-BD0C-A0FAC7E7F0B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80AD06A5-3D24-4AE8-BD0C-A0FAC7E7F0B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80AD06A5-3D24-4AE8-BD0C-A0FAC7E7F0B8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -186,6 +198,8 @@ Global
 		{B0A28E28-6692-430D-B4A5-8D99753571CD} = {3D868B4F-4EB0-47CB-8691-C79DC26DEB66}
 		{8282F57A-BB06-4C60-8EA2-0F200C590363} = {3D868B4F-4EB0-47CB-8691-C79DC26DEB66}
 		{A78A395B-7C4F-4943-A4BE-D84D0E8673F4} = {3D868B4F-4EB0-47CB-8691-C79DC26DEB66}
+		{FFA44A2F-B4AF-48D5-92A6-E28C0744961A} = {3D868B4F-4EB0-47CB-8691-C79DC26DEB66}
+		{80AD06A5-3D24-4AE8-BD0C-A0FAC7E7F0B8} = {3D868B4F-4EB0-47CB-8691-C79DC26DEB66}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {8877039F-4D42-4314-81D1-03E4C7C7078B}
