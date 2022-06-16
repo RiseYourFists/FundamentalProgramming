@@ -93,13 +93,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CodeRefactoring", "CodeRefa
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DataTypeExercise", "DataTypeExercise", "{CA207F3E-43D5-477C-8B2A-21AFA4A58C36}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntengerOperations", "IntengerOperations\IntengerOperations.csproj", "{811FA78A-D0FA-4122-BEAB-BF789517F23C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IntengerOperations", "IntengerOperations\IntengerOperations.csproj", "{811FA78A-D0FA-4122-BEAB-BF789517F23C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumOfDigits", "SumOfDigits\SumOfDigits.csproj", "{D87915E7-8562-495F-8443-FB3E7636A425}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SumOfDigits", "SumOfDigits\SumOfDigits.csproj", "{D87915E7-8562-495F-8443-FB3E7636A425}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Elevator", "Elevator\Elevator.csproj", "{6EC85E6F-554A-4457-8A61-043D840D61BC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Elevator", "Elevator\Elevator.csproj", "{6EC85E6F-554A-4457-8A61-043D840D61BC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumOfChars", "SumOfChars\SumOfChars.csproj", "{B8670097-181B-4FA2-9941-93B6514D6999}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SumOfChars", "SumOfChars\SumOfChars.csproj", "{B8670097-181B-4FA2-9941-93B6514D6999}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrintASCIITableInRange", "PrintASCIITableInRange\PrintASCIITableInRange.csproj", "{E5F9C757-66D1-4E1B-B6CA-529F45F37DD3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -287,6 +289,10 @@ Global
 		{B8670097-181B-4FA2-9941-93B6514D6999}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B8670097-181B-4FA2-9941-93B6514D6999}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B8670097-181B-4FA2-9941-93B6514D6999}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5F9C757-66D1-4E1B-B6CA-529F45F37DD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5F9C757-66D1-4E1B-B6CA-529F45F37DD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5F9C757-66D1-4E1B-B6CA-529F45F37DD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5F9C757-66D1-4E1B-B6CA-529F45F37DD3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -337,6 +343,7 @@ Global
 		{D87915E7-8562-495F-8443-FB3E7636A425} = {CA207F3E-43D5-477C-8B2A-21AFA4A58C36}
 		{6EC85E6F-554A-4457-8A61-043D840D61BC} = {CA207F3E-43D5-477C-8B2A-21AFA4A58C36}
 		{B8670097-181B-4FA2-9941-93B6514D6999} = {CA207F3E-43D5-477C-8B2A-21AFA4A58C36}
+		{E5F9C757-66D1-4E1B-B6CA-529F45F37DD3} = {CA207F3E-43D5-477C-8B2A-21AFA4A58C36}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {8877039F-4D42-4314-81D1-03E4C7C7078B}
