@@ -101,11 +101,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Elevator", "Elevator\Elevat
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SumOfChars", "SumOfChars\SumOfChars.csproj", "{B8670097-181B-4FA2-9941-93B6514D6999}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrintASCIITableInRange", "PrintASCIITableInRange\PrintASCIITableInRange.csproj", "{E5F9C757-66D1-4E1B-B6CA-529F45F37DD3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PrintASCIITableInRange", "PrintASCIITableInRange\PrintASCIITableInRange.csproj", "{E5F9C757-66D1-4E1B-B6CA-529F45F37DD3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TriplesOfLatinLetters", "TriplesOfLatinLetters\TriplesOfLatinLetters.csproj", "{B7008D43-FD75-45BC-BF7D-332690755DF9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TriplesOfLatinLetters", "TriplesOfLatinLetters\TriplesOfLatinLetters.csproj", "{B7008D43-FD75-45BC-BF7D-332690755DF9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WaterOverflow", "WaterOverflow\WaterOverflow.csproj", "{728A117D-5C6B-4EC5-8883-510F489CB729}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WaterOverflow", "WaterOverflow\WaterOverflow.csproj", "{728A117D-5C6B-4EC5-8883-510F489CB729}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeerKegs", "BeerKegs\BeerKegs.csproj", "{C02F89E8-03A5-408F-BF70-6AB4D9F77D12}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -305,6 +307,10 @@ Global
 		{728A117D-5C6B-4EC5-8883-510F489CB729}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{728A117D-5C6B-4EC5-8883-510F489CB729}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{728A117D-5C6B-4EC5-8883-510F489CB729}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C02F89E8-03A5-408F-BF70-6AB4D9F77D12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C02F89E8-03A5-408F-BF70-6AB4D9F77D12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C02F89E8-03A5-408F-BF70-6AB4D9F77D12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C02F89E8-03A5-408F-BF70-6AB4D9F77D12}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -358,6 +364,7 @@ Global
 		{E5F9C757-66D1-4E1B-B6CA-529F45F37DD3} = {CA207F3E-43D5-477C-8B2A-21AFA4A58C36}
 		{B7008D43-FD75-45BC-BF7D-332690755DF9} = {CA207F3E-43D5-477C-8B2A-21AFA4A58C36}
 		{728A117D-5C6B-4EC5-8883-510F489CB729} = {CA207F3E-43D5-477C-8B2A-21AFA4A58C36}
+		{C02F89E8-03A5-408F-BF70-6AB4D9F77D12} = {CA207F3E-43D5-477C-8B2A-21AFA4A58C36}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {8877039F-4D42-4314-81D1-03E4C7C7078B}
