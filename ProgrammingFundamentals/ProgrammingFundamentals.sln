@@ -111,27 +111,31 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BeerKegs", "BeerKegs\BeerKe
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SpicesMustFlow", "SpicesMustFlow\SpicesMustFlow.csproj", "{ECEAE641-7CED-468B-AFDC-D96D0BD8DAA0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pokemon", "Pokemon\Pokemon.csproj", "{34814729-DBDE-408A-A18B-AE3E5820EAE7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pokemon", "Pokemon\Pokemon.csproj", "{34814729-DBDE-408A-A18B-AE3E5820EAE7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SnowBalls", "SnowBalls\SnowBalls.csproj", "{3DC30F9D-7910-4A2A-9CFB-ED40B33F97A5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SnowBalls", "SnowBalls\SnowBalls.csproj", "{3DC30F9D-7910-4A2A-9CFB-ED40B33F97A5}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Arrays", "Arrays", "{3BA3204D-F827-470C-B4B6-197A93EF7C4E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DaysOfWeek", "DaysOfWeek\DaysOfWeek.csproj", "{AEA76220-EEB2-4390-B347-B35F7697FE14}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DaysOfWeek", "DaysOfWeek\DaysOfWeek.csproj", "{AEA76220-EEB2-4390-B347-B35F7697FE14}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrintNumsInReverse", "PrintNumsInReverse\PrintNumsInReverse.csproj", "{07AC3B89-F22B-4B29-8944-B239F3A565F0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PrintNumsInReverse", "PrintNumsInReverse\PrintNumsInReverse.csproj", "{07AC3B89-F22B-4B29-8944-B239F3A565F0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoundingNumbersInArrray", "RoundingNumbersInArrray\RoundingNumbersInArrray.csproj", "{7A8B4A2F-AB8B-48BE-8A54-C218C99A3BD1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RoundingNumbersInArrray", "RoundingNumbersInArrray\RoundingNumbersInArrray.csproj", "{7A8B4A2F-AB8B-48BE-8A54-C218C99A3BD1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseAString", "ReverseAString\ReverseAString.csproj", "{668FF632-8BFC-4EE0-9376-F35C688543EF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReverseAString", "ReverseAString\ReverseAString.csproj", "{668FF632-8BFC-4EE0-9376-F35C688543EF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumOfEvenNums", "SumOfEvenNums\SumOfEvenNums.csproj", "{983F990A-6E65-4CB0-862A-A98994995F10}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SumOfEvenNums", "SumOfEvenNums\SumOfEvenNums.csproj", "{983F990A-6E65-4CB0-862A-A98994995F10}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SubtractingEvenAndOdds", "SubtractingEvenAndOdds\SubtractingEvenAndOdds.csproj", "{C19E2077-61BA-46D5-893D-1B08B9E44EA2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SubtractingEvenAndOdds", "SubtractingEvenAndOdds\SubtractingEvenAndOdds.csproj", "{C19E2077-61BA-46D5-893D-1B08B9E44EA2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IdenticalArrays", "IdenticalArrays\IdenticalArrays.csproj", "{9C367F5D-B7E6-4856-92C2-712400DF62D3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IdenticalArrays", "IdenticalArrays\IdenticalArrays.csproj", "{9C367F5D-B7E6-4856-92C2-712400DF62D3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayCondensation", "ArrayCondensation\ArrayCondensation.csproj", "{A22FFA67-87B6-4019-8EAF-F1BBE41069A8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArrayCondensation", "ArrayCondensation\ArrayCondensation.csproj", "{A22FFA67-87B6-4019-8EAF-F1BBE41069A8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ArraysExercise", "ArraysExercise", "{F311941D-DD3D-4A80-B95F-A4429F7F7810}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Train", "Train\Train.csproj", "{47309944-8201-482F-9374-28465002BE93}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -379,6 +383,10 @@ Global
 		{A22FFA67-87B6-4019-8EAF-F1BBE41069A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A22FFA67-87B6-4019-8EAF-F1BBE41069A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A22FFA67-87B6-4019-8EAF-F1BBE41069A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47309944-8201-482F-9374-28465002BE93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47309944-8201-482F-9374-28465002BE93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47309944-8201-482F-9374-28465002BE93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47309944-8201-482F-9374-28465002BE93}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -444,6 +452,7 @@ Global
 		{C19E2077-61BA-46D5-893D-1B08B9E44EA2} = {3BA3204D-F827-470C-B4B6-197A93EF7C4E}
 		{9C367F5D-B7E6-4856-92C2-712400DF62D3} = {3BA3204D-F827-470C-B4B6-197A93EF7C4E}
 		{A22FFA67-87B6-4019-8EAF-F1BBE41069A8} = {3BA3204D-F827-470C-B4B6-197A93EF7C4E}
+		{47309944-8201-482F-9374-28465002BE93} = {F311941D-DD3D-4A80-B95F-A4429F7F7810}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {8877039F-4D42-4314-81D1-03E4C7C7078B}
