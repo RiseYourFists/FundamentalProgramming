@@ -25,35 +25,33 @@ namespace KaminoFactory
 
                 var testDna = new List<int>(LongestLenghtAtPos(string.Concat(dataDNA),'1'));
 
-                if(testDna[0] >= longest)
+                bool isBetter = false;
+
+                if(testDna[0] > longest)
                 {
-                    if(testDna[0] == longest)
+                    isBetter = true;
+                }
+
+                if (testDna[0] == longest)
+                {
+                    if (testDna[1] < longestPos)
                     {
-                        if(testDna[1] < longestPos)
-                        {
-                            longest = testDna[0];
-                            longestPos = testDna[1];
-                            DNA = dataDNA;
-                            test = counter;
-                        }
-                        else if(testDna[1] == longestPos)
-                        {
-                            var currSum = SumOfArray(dataDNA);
-                            var sumOfBiggest = SumOfArray(DNA);
-
-                            if(currSum > sumOfBiggest)
-                            {
-                                longest = testDna[0];
-                                longestPos = testDna[1];
-                                DNA = dataDNA;
-                                test = counter;
-                            }
-                        }
-
-                        input = Console.ReadLine();
-                        continue;
+                        isBetter = true;
                     }
+                    else if (testDna[1] == longestPos)
+                    {
+                        var currSum = SumOfArray(dataDNA);
+                        var sumOfBiggest = SumOfArray(DNA);
 
+                        if (currSum > sumOfBiggest)
+                        {
+                            isBetter = true;
+                        }
+                    }
+                }
+
+                if (isBetter)
+                {
                     longest = testDna[0];
                     longestPos = testDna[1];
                     DNA = dataDNA;
