@@ -161,6 +161,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignOfIntNums", "SignOfIntN
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Grades", "Grades\Grades.csproj", "{697C2F2B-60DD-4117-9B06-07B71C2BD4A3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculations", "Calculations\Calculations.csproj", "{2728E062-7234-45DF-95AD-DF17CC62F98A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -455,6 +457,10 @@ Global
 		{697C2F2B-60DD-4117-9B06-07B71C2BD4A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{697C2F2B-60DD-4117-9B06-07B71C2BD4A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{697C2F2B-60DD-4117-9B06-07B71C2BD4A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2728E062-7234-45DF-95AD-DF17CC62F98A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2728E062-7234-45DF-95AD-DF17CC62F98A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2728E062-7234-45DF-95AD-DF17CC62F98A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2728E062-7234-45DF-95AD-DF17CC62F98A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -532,6 +538,7 @@ Global
 		{DAE229EC-AB29-4D77-AB72-53C84644ADEF} = {F311941D-DD3D-4A80-B95F-A4429F7F7810}
 		{001B5997-4BA4-428C-85F7-357F5E035BB8} = {D3A51E20-EAB6-4F00-BC8C-9E6CB6F906AB}
 		{697C2F2B-60DD-4117-9B06-07B71C2BD4A3} = {D3A51E20-EAB6-4F00-BC8C-9E6CB6F906AB}
+		{2728E062-7234-45DF-95AD-DF17CC62F98A} = {D3A51E20-EAB6-4F00-BC8C-9E6CB6F906AB}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {8877039F-4D42-4314-81D1-03E4C7C7078B}
