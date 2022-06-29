@@ -193,6 +193,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddAndSubtract", "AddAndSub
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiddleChars", "MiddleChars\MiddleChars.csproj", "{C5CF6B2D-2F58-4E51-921A-BED94B5C0080}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NxNMatrix", "NxNMatrix\NxNMatrix.csproj", "{A20DD6D6-BBE0-4A2E-9018-B714A927FD8A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -547,6 +549,10 @@ Global
 		{C5CF6B2D-2F58-4E51-921A-BED94B5C0080}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C5CF6B2D-2F58-4E51-921A-BED94B5C0080}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C5CF6B2D-2F58-4E51-921A-BED94B5C0080}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A20DD6D6-BBE0-4A2E-9018-B714A927FD8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A20DD6D6-BBE0-4A2E-9018-B714A927FD8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A20DD6D6-BBE0-4A2E-9018-B714A927FD8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A20DD6D6-BBE0-4A2E-9018-B714A927FD8A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -639,6 +645,7 @@ Global
 		{2AC89113-9F2E-401B-BD7E-3A1C1930A8E1} = {5D019D11-5388-43BF-92F9-CDC5D3E9940B}
 		{5505A4C7-D4BB-4429-9E9D-3C6034CB2E9B} = {5D019D11-5388-43BF-92F9-CDC5D3E9940B}
 		{C5CF6B2D-2F58-4E51-921A-BED94B5C0080} = {5D019D11-5388-43BF-92F9-CDC5D3E9940B}
+		{A20DD6D6-BBE0-4A2E-9018-B714A927FD8A} = {5D019D11-5388-43BF-92F9-CDC5D3E9940B}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {8877039F-4D42-4314-81D1-03E4C7C7078B}
