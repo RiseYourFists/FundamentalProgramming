@@ -211,6 +211,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GaussTrick", "GaussTrick\Ga
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergingLists", "MergingLists\MergingLists.csproj", "{04446C68-8436-4913-8AC7-B2E48BB69A17}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListOfProducts", "ListOfProducts\ListOfProducts.csproj", "{84321D3B-E077-40C9-9BC6-AC40EE87F58B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -597,6 +599,10 @@ Global
 		{04446C68-8436-4913-8AC7-B2E48BB69A17}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{04446C68-8436-4913-8AC7-B2E48BB69A17}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{04446C68-8436-4913-8AC7-B2E48BB69A17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84321D3B-E077-40C9-9BC6-AC40EE87F58B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84321D3B-E077-40C9-9BC6-AC40EE87F58B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84321D3B-E077-40C9-9BC6-AC40EE87F58B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84321D3B-E077-40C9-9BC6-AC40EE87F58B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -697,6 +703,7 @@ Global
 		{8A5A0B62-6582-4F34-B01C-1222E73254E0} = {C9143874-DEC3-481D-9ABF-5FAFAD437996}
 		{E8657549-5C53-47FB-BE45-5A0868872D86} = {C9143874-DEC3-481D-9ABF-5FAFAD437996}
 		{04446C68-8436-4913-8AC7-B2E48BB69A17} = {C9143874-DEC3-481D-9ABF-5FAFAD437996}
+		{84321D3B-E077-40C9-9BC6-AC40EE87F58B} = {C9143874-DEC3-481D-9ABF-5FAFAD437996}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {8877039F-4D42-4314-81D1-03E4C7C7078B}
