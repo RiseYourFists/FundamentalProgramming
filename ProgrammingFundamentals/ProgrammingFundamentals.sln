@@ -215,6 +215,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListOfProducts", "ListOfPro
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveNegativeAndReverse", "RemoveNegativeAndReverse\RemoveNegativeAndReverse.csproj", "{920ADCEC-57D2-41B1-B918-87EE23C32ED0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListManipulation", "ListManipulation\ListManipulation.csproj", "{163E422F-82DC-4753-B566-B5A2F20B5883}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -609,6 +611,10 @@ Global
 		{920ADCEC-57D2-41B1-B918-87EE23C32ED0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{920ADCEC-57D2-41B1-B918-87EE23C32ED0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{920ADCEC-57D2-41B1-B918-87EE23C32ED0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{163E422F-82DC-4753-B566-B5A2F20B5883}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{163E422F-82DC-4753-B566-B5A2F20B5883}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{163E422F-82DC-4753-B566-B5A2F20B5883}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{163E422F-82DC-4753-B566-B5A2F20B5883}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -711,6 +717,7 @@ Global
 		{04446C68-8436-4913-8AC7-B2E48BB69A17} = {C9143874-DEC3-481D-9ABF-5FAFAD437996}
 		{84321D3B-E077-40C9-9BC6-AC40EE87F58B} = {C9143874-DEC3-481D-9ABF-5FAFAD437996}
 		{920ADCEC-57D2-41B1-B918-87EE23C32ED0} = {C9143874-DEC3-481D-9ABF-5FAFAD437996}
+		{163E422F-82DC-4753-B566-B5A2F20B5883} = {C9143874-DEC3-481D-9ABF-5FAFAD437996}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {8877039F-4D42-4314-81D1-03E4C7C7078B}
