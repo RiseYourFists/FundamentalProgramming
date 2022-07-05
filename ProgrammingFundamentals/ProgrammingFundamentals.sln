@@ -225,6 +225,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Train01", "Train01\Train01.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChangeList", "ChangeList\ChangeList.csproj", "{AF88C0FC-195E-46AE-BBDB-53AE073A08B3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HouseParty", "HouseParty\HouseParty.csproj", "{4AF559DF-8342-4055-AEBD-63B7C07A50F9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -635,6 +637,10 @@ Global
 		{AF88C0FC-195E-46AE-BBDB-53AE073A08B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AF88C0FC-195E-46AE-BBDB-53AE073A08B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AF88C0FC-195E-46AE-BBDB-53AE073A08B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4AF559DF-8342-4055-AEBD-63B7C07A50F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AF559DF-8342-4055-AEBD-63B7C07A50F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AF559DF-8342-4055-AEBD-63B7C07A50F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AF559DF-8342-4055-AEBD-63B7C07A50F9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -741,6 +747,7 @@ Global
 		{4DFF57FC-8929-4495-A9E5-48FAF26DF6B0} = {C9143874-DEC3-481D-9ABF-5FAFAD437996}
 		{EBB530B7-1D43-4410-AC0D-401184E00122} = {41D09118-0851-44EC-B8C2-B277C39EBD59}
 		{AF88C0FC-195E-46AE-BBDB-53AE073A08B3} = {41D09118-0851-44EC-B8C2-B277C39EBD59}
+		{4AF559DF-8342-4055-AEBD-63B7C07A50F9} = {41D09118-0851-44EC-B8C2-B277C39EBD59}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {8877039F-4D42-4314-81D1-03E4C7C7078B}
