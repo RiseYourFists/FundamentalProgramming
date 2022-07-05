@@ -207,17 +207,21 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lists", "Lists", "{C9143874
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SumOfAdjacentEqualNums", "SumOfAdjacentEqualNums\SumOfAdjacentEqualNums.csproj", "{8A5A0B62-6582-4F34-B01C-1222E73254E0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GaussTrick", "GaussTrick\GaussTrick.csproj", "{E8657549-5C53-47FB-BE45-5A0868872D86}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GaussTrick", "GaussTrick\GaussTrick.csproj", "{E8657549-5C53-47FB-BE45-5A0868872D86}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergingLists", "MergingLists\MergingLists.csproj", "{04446C68-8436-4913-8AC7-B2E48BB69A17}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MergingLists", "MergingLists\MergingLists.csproj", "{04446C68-8436-4913-8AC7-B2E48BB69A17}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListOfProducts", "ListOfProducts\ListOfProducts.csproj", "{84321D3B-E077-40C9-9BC6-AC40EE87F58B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ListOfProducts", "ListOfProducts\ListOfProducts.csproj", "{84321D3B-E077-40C9-9BC6-AC40EE87F58B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveNegativeAndReverse", "RemoveNegativeAndReverse\RemoveNegativeAndReverse.csproj", "{920ADCEC-57D2-41B1-B918-87EE23C32ED0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RemoveNegativeAndReverse", "RemoveNegativeAndReverse\RemoveNegativeAndReverse.csproj", "{920ADCEC-57D2-41B1-B918-87EE23C32ED0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListManipulation", "ListManipulation\ListManipulation.csproj", "{163E422F-82DC-4753-B566-B5A2F20B5883}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ListManipulation", "ListManipulation\ListManipulation.csproj", "{163E422F-82DC-4753-B566-B5A2F20B5883}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdvancedListManipulation", "AdvancedListManipulation\AdvancedListManipulation.csproj", "{4DFF57FC-8929-4495-A9E5-48FAF26DF6B0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AdvancedListManipulation", "AdvancedListManipulation\AdvancedListManipulation.csproj", "{4DFF57FC-8929-4495-A9E5-48FAF26DF6B0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ListsExercise", "ListsExercise", "{41D09118-0851-44EC-B8C2-B277C39EBD59}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Train01", "Train01\Train01.csproj", "{EBB530B7-1D43-4410-AC0D-401184E00122}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -621,6 +625,10 @@ Global
 		{4DFF57FC-8929-4495-A9E5-48FAF26DF6B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4DFF57FC-8929-4495-A9E5-48FAF26DF6B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4DFF57FC-8929-4495-A9E5-48FAF26DF6B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBB530B7-1D43-4410-AC0D-401184E00122}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBB530B7-1D43-4410-AC0D-401184E00122}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBB530B7-1D43-4410-AC0D-401184E00122}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBB530B7-1D43-4410-AC0D-401184E00122}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -725,6 +733,7 @@ Global
 		{920ADCEC-57D2-41B1-B918-87EE23C32ED0} = {C9143874-DEC3-481D-9ABF-5FAFAD437996}
 		{163E422F-82DC-4753-B566-B5A2F20B5883} = {C9143874-DEC3-481D-9ABF-5FAFAD437996}
 		{4DFF57FC-8929-4495-A9E5-48FAF26DF6B0} = {C9143874-DEC3-481D-9ABF-5FAFAD437996}
+		{EBB530B7-1D43-4410-AC0D-401184E00122} = {41D09118-0851-44EC-B8C2-B277C39EBD59}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {8877039F-4D42-4314-81D1-03E4C7C7078B}
