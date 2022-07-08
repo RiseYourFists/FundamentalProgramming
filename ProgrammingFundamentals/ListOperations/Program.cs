@@ -41,11 +41,12 @@ namespace ListOperations
                         break;
                     case "Shift":
                         int count = int.Parse(input[2]);
+                        int optimisedCount = count % numbers.Count;
                         int last = numbers.Count - 1;
                         
                         if(input[1] == "right")
                         {
-                            for (int i = 0; i < count; i++)
+                            for (int i = 0; i < optimisedCount; i++)
                             {
                                 numbers.Insert(0, numbers[last]);
                                 numbers.RemoveAt(last + 1);
@@ -53,7 +54,7 @@ namespace ListOperations
                         }
                         else
                         {
-                            for (int i = 0; i < count; i++)
+                            for (int i = 0; i < optimisedCount; i++)
                             {
                                 numbers.Add(numbers[0]);
                                 numbers.RemoveAt(0);
