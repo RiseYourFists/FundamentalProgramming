@@ -55,7 +55,7 @@ namespace AnonymousThreat
             return result;
         }
 
-        static List<string> DivideList(List<string> collection, int index, int partitions)
+        static List<string> DivideList(List<string> collection, int index, int partitions) 
         {
             var result = collection;
             if(partitions <= 0)
