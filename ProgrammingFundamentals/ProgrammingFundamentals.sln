@@ -231,11 +231,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ListOperations", "ListOpera
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BombNumbers", "BombNumbers\BombNumbers.csproj", "{B6E11AEA-C5B9-40A6-95A9-AC23B6473678}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CardsGame", "CardsGame\CardsGame.csproj", "{F7CEDA1B-CE57-47A5-A0CA-892BA3D5F423}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CardsGame", "CardsGame\CardsGame.csproj", "{F7CEDA1B-CE57-47A5-A0CA-892BA3D5F423}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppendArrays", "AppendArrays\AppendArrays.csproj", "{02DA8341-2191-413C-804C-C1359FABB305}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AppendArrays", "AppendArrays\AppendArrays.csproj", "{02DA8341-2191-413C-804C-C1359FABB305}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnonymousThreat", "AnonymousThreat\AnonymousThreat.csproj", "{7DB20A16-247C-40D2-8ED1-5C019E2AC695}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AnonymousThreat", "AnonymousThreat\AnonymousThreat.csproj", "{7DB20A16-247C-40D2-8ED1-5C019E2AC695}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Classes", "Classes", "{EBCE7F89-4F5A-4209-8973-4029D3E725A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RandomizeWords", "RandomizeWords\RandomizeWords.csproj", "{2C42834B-D654-494E-8237-A2B5FC8987D5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -671,6 +675,10 @@ Global
 		{7DB20A16-247C-40D2-8ED1-5C019E2AC695}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7DB20A16-247C-40D2-8ED1-5C019E2AC695}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7DB20A16-247C-40D2-8ED1-5C019E2AC695}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C42834B-D654-494E-8237-A2B5FC8987D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C42834B-D654-494E-8237-A2B5FC8987D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C42834B-D654-494E-8237-A2B5FC8987D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C42834B-D654-494E-8237-A2B5FC8987D5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -783,6 +791,7 @@ Global
 		{F7CEDA1B-CE57-47A5-A0CA-892BA3D5F423} = {41D09118-0851-44EC-B8C2-B277C39EBD59}
 		{02DA8341-2191-413C-804C-C1359FABB305} = {41D09118-0851-44EC-B8C2-B277C39EBD59}
 		{7DB20A16-247C-40D2-8ED1-5C019E2AC695} = {41D09118-0851-44EC-B8C2-B277C39EBD59}
+		{2C42834B-D654-494E-8237-A2B5FC8987D5} = {EBCE7F89-4F5A-4209-8973-4029D3E725A6}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {8877039F-4D42-4314-81D1-03E4C7C7078B}
