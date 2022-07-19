@@ -24,7 +24,7 @@ namespace Students
         static void Main(string[] args)
         {
             string input = Console.ReadLine();
-            var Studends = new List<Student>();
+            var Students = new List<Student>();
 
             while(input != "end")
             {
@@ -36,14 +36,14 @@ namespace Students
                 var location = tokens[3];
 
                 var newStudent = new Student(firstName, lastName, age, location);
-                Studends.Add(newStudent);
+                Students.Add(newStudent);
 
                 input = Console.ReadLine();
             }
 
             string filter = Console.ReadLine();
 
-            var result = Studends.Where(x => x.HomeTown == filter).ToList();
+            var result = Students.Where(x => x.HomeTown == filter).ToList();
 
             foreach (var item in result)
             {
