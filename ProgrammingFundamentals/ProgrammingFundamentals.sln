@@ -261,6 +261,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Articles", "Articles\Articl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Articles2.0", "Articles2.0\Articles2.0.csproj", "{4B4C7441-4EBB-467F-868D-194E9CBCB2A8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassStudents", "ClassStudents\ClassStudents.csproj", "{8FAB0E60-CA7D-4321-916B-A762E2728109}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -735,6 +737,10 @@ Global
 		{4B4C7441-4EBB-467F-868D-194E9CBCB2A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4B4C7441-4EBB-467F-868D-194E9CBCB2A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4B4C7441-4EBB-467F-868D-194E9CBCB2A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FAB0E60-CA7D-4321-916B-A762E2728109}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FAB0E60-CA7D-4321-916B-A762E2728109}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FAB0E60-CA7D-4321-916B-A762E2728109}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FAB0E60-CA7D-4321-916B-A762E2728109}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -857,6 +863,7 @@ Global
 		{F01A16B1-F273-4FD0-81BB-A23B6C635C1B} = {CCDCBF17-05D8-4080-AFE1-E3612E5E8182}
 		{D49EA7D5-C541-4F64-8515-7DECD6B4D049} = {CCDCBF17-05D8-4080-AFE1-E3612E5E8182}
 		{4B4C7441-4EBB-467F-868D-194E9CBCB2A8} = {CCDCBF17-05D8-4080-AFE1-E3612E5E8182}
+		{8FAB0E60-CA7D-4321-916B-A762E2728109} = {CCDCBF17-05D8-4080-AFE1-E3612E5E8182}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {8877039F-4D42-4314-81D1-03E4C7C7078B}
