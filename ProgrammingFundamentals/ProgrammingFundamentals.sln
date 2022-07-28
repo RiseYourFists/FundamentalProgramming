@@ -267,6 +267,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TeamProjects", "TeamProject
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CarCatalogueExerscise", "CarCatalougeExerscise\CarCatalogueExerscise.csproj", "{25B23E50-E8A9-45ED-B212-6099CAEE8F6C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderByAge", "OrderByAge\OrderByAge.csproj", "{E1051562-023D-4FBF-9DA5-1F7C099F2DDB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -753,6 +755,10 @@ Global
 		{25B23E50-E8A9-45ED-B212-6099CAEE8F6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{25B23E50-E8A9-45ED-B212-6099CAEE8F6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{25B23E50-E8A9-45ED-B212-6099CAEE8F6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1051562-023D-4FBF-9DA5-1F7C099F2DDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1051562-023D-4FBF-9DA5-1F7C099F2DDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1051562-023D-4FBF-9DA5-1F7C099F2DDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1051562-023D-4FBF-9DA5-1F7C099F2DDB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -878,6 +884,7 @@ Global
 		{8FAB0E60-CA7D-4321-916B-A762E2728109} = {CCDCBF17-05D8-4080-AFE1-E3612E5E8182}
 		{7E1B5BAE-24F2-41A3-930D-336D0EC8F2D8} = {CCDCBF17-05D8-4080-AFE1-E3612E5E8182}
 		{25B23E50-E8A9-45ED-B212-6099CAEE8F6C} = {CCDCBF17-05D8-4080-AFE1-E3612E5E8182}
+		{E1051562-023D-4FBF-9DA5-1F7C099F2DDB} = {CCDCBF17-05D8-4080-AFE1-E3612E5E8182}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {8877039F-4D42-4314-81D1-03E4C7C7078B}
