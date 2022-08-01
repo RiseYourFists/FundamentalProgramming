@@ -281,6 +281,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OddOccurences", "OddOccuren
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordSynonyms", "WordSynonyms\WordSynonyms.csproj", "{2103110B-3338-43FD-862B-05CD17C78665}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordFilter", "Word Filter\WordFilter.csproj", "{C3C75EB7-545F-4016-8679-A8177797C2B9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -787,6 +789,10 @@ Global
 		{2103110B-3338-43FD-862B-05CD17C78665}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2103110B-3338-43FD-862B-05CD17C78665}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2103110B-3338-43FD-862B-05CD17C78665}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3C75EB7-545F-4016-8679-A8177797C2B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3C75EB7-545F-4016-8679-A8177797C2B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3C75EB7-545F-4016-8679-A8177797C2B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3C75EB7-545F-4016-8679-A8177797C2B9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -917,6 +923,7 @@ Global
 		{7B0537F5-ECFB-4AAD-B032-9E9F311CE5C3} = {DC88FEF3-D82F-4258-BE44-4E1BB600AEF2}
 		{1FDB7DB8-FC4D-4BDC-9EA6-5FA0FBBD5574} = {DC88FEF3-D82F-4258-BE44-4E1BB600AEF2}
 		{2103110B-3338-43FD-862B-05CD17C78665} = {DC88FEF3-D82F-4258-BE44-4E1BB600AEF2}
+		{C3C75EB7-545F-4016-8679-A8177797C2B9} = {DC88FEF3-D82F-4258-BE44-4E1BB600AEF2}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {8877039F-4D42-4314-81D1-03E4C7C7078B}
