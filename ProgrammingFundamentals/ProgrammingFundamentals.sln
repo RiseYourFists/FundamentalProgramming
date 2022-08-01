@@ -273,6 +273,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BitwiseOperations", "Bitwis
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryDigitsCount", "BinaryDigitsCount\BinaryDigitsCount.csproj", "{BEF541F7-8966-4D09-929D-39E126907DD4}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "AssociativeArrays", "AssociativeArrays", "{DC88FEF3-D82F-4258-BE44-4E1BB600AEF2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountRealNumbers", "CountRealNumbers\CountRealNumbers.csproj", "{7B0537F5-ECFB-4AAD-B032-9E9F311CE5C3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -767,6 +771,10 @@ Global
 		{BEF541F7-8966-4D09-929D-39E126907DD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BEF541F7-8966-4D09-929D-39E126907DD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BEF541F7-8966-4D09-929D-39E126907DD4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B0537F5-ECFB-4AAD-B032-9E9F311CE5C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B0537F5-ECFB-4AAD-B032-9E9F311CE5C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B0537F5-ECFB-4AAD-B032-9E9F311CE5C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B0537F5-ECFB-4AAD-B032-9E9F311CE5C3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -894,6 +902,7 @@ Global
 		{25B23E50-E8A9-45ED-B212-6099CAEE8F6C} = {CCDCBF17-05D8-4080-AFE1-E3612E5E8182}
 		{E1051562-023D-4FBF-9DA5-1F7C099F2DDB} = {CCDCBF17-05D8-4080-AFE1-E3612E5E8182}
 		{BEF541F7-8966-4D09-929D-39E126907DD4} = {0136E45C-849F-4AEC-A4CB-7CB4436662C2}
+		{7B0537F5-ECFB-4AAD-B032-9E9F311CE5C3} = {DC88FEF3-D82F-4258-BE44-4E1BB600AEF2}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {8877039F-4D42-4314-81D1-03E4C7C7078B}
