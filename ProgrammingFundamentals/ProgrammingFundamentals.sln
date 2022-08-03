@@ -285,9 +285,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WordFilter", "Word Filter\W
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "AssociativeArraysExercise", "AssociativeArraysExercise", "{576CDF14-F151-4AB7-B364-72AB31C6D382}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountCharsInString", "CountCharsInString\CountCharsInString.csproj", "{5591D377-2DEB-4913-BB86-907FCEF202F5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CountCharsInString", "CountCharsInString\CountCharsInString.csproj", "{5591D377-2DEB-4913-BB86-907FCEF202F5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AMinerTask", "AMinerTask\AMinerTask.csproj", "{400050CE-4F91-4DCE-907C-65D7CE2B9B31}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AMinerTask", "AMinerTask\AMinerTask.csproj", "{400050CE-4F91-4DCE-907C-65D7CE2B9B31}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrdersAssociativeArray", "OrdersAssociativeArray\OrdersAssociativeArray.csproj", "{E35F22BE-FDC8-40D2-9A7D-F313B900BE34}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -807,6 +809,10 @@ Global
 		{400050CE-4F91-4DCE-907C-65D7CE2B9B31}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{400050CE-4F91-4DCE-907C-65D7CE2B9B31}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{400050CE-4F91-4DCE-907C-65D7CE2B9B31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E35F22BE-FDC8-40D2-9A7D-F313B900BE34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E35F22BE-FDC8-40D2-9A7D-F313B900BE34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E35F22BE-FDC8-40D2-9A7D-F313B900BE34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E35F22BE-FDC8-40D2-9A7D-F313B900BE34}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -940,6 +946,7 @@ Global
 		{C3C75EB7-545F-4016-8679-A8177797C2B9} = {DC88FEF3-D82F-4258-BE44-4E1BB600AEF2}
 		{5591D377-2DEB-4913-BB86-907FCEF202F5} = {576CDF14-F151-4AB7-B364-72AB31C6D382}
 		{400050CE-4F91-4DCE-907C-65D7CE2B9B31} = {576CDF14-F151-4AB7-B364-72AB31C6D382}
+		{E35F22BE-FDC8-40D2-9A7D-F313B900BE34} = {576CDF14-F151-4AB7-B364-72AB31C6D382}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {8877039F-4D42-4314-81D1-03E4C7C7078B}
