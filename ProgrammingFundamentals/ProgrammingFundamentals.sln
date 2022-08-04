@@ -289,7 +289,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CountCharsInString", "Count
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AMinerTask", "AMinerTask\AMinerTask.csproj", "{400050CE-4F91-4DCE-907C-65D7CE2B9B31}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrdersAssociativeArray", "OrdersAssociativeArray\OrdersAssociativeArray.csproj", "{E35F22BE-FDC8-40D2-9A7D-F313B900BE34}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LegendaryFarming", "OrdersAssociativeArray\LegendaryFarming.csproj", "{E35F22BE-FDC8-40D2-9A7D-F313B900BE34}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
