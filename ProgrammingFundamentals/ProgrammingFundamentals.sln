@@ -305,6 +305,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "StringProcessing", "StringP
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseText", "ReverseText\ReverseText.csproj", "{F1EB2BF0-3D37-459E-9EA9-1AEFF6143F16}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RepeatingStrings", "RepeatingStrings\RepeatingStrings.csproj", "{984F87EB-F162-420D-A32D-8D704C86C6CB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -851,6 +853,10 @@ Global
 		{F1EB2BF0-3D37-459E-9EA9-1AEFF6143F16}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F1EB2BF0-3D37-459E-9EA9-1AEFF6143F16}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F1EB2BF0-3D37-459E-9EA9-1AEFF6143F16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{984F87EB-F162-420D-A32D-8D704C86C6CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{984F87EB-F162-420D-A32D-8D704C86C6CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{984F87EB-F162-420D-A32D-8D704C86C6CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{984F87EB-F162-420D-A32D-8D704C86C6CB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -991,6 +997,7 @@ Global
 		{D9DDED90-EC3D-4A3C-87B7-56E3DE3C3CAA} = {576CDF14-F151-4AB7-B364-72AB31C6D382}
 		{C1583087-B0DF-45C9-9241-6F73B54D6309} = {576CDF14-F151-4AB7-B364-72AB31C6D382}
 		{F1EB2BF0-3D37-459E-9EA9-1AEFF6143F16} = {4DF13CD7-E9AE-4ADE-ADBB-EC4928BD728B}
+		{984F87EB-F162-420D-A32D-8D704C86C6CB} = {4DF13CD7-E9AE-4ADE-ADBB-EC4928BD728B}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {8877039F-4D42-4314-81D1-03E4C7C7078B}
