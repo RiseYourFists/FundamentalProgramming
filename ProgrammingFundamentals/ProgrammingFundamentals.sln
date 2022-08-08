@@ -309,6 +309,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RepeatingStrings", "Repeati
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Substring", "Substring\Substring.csproj", "{923F7468-4C01-4EE5-BD61-CE89DB0EBF05}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextFilter", "TextFilter\TextFilter.csproj", "{B7BD9195-C0BC-4C09-935D-1670AA05F57E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -863,6 +865,10 @@ Global
 		{923F7468-4C01-4EE5-BD61-CE89DB0EBF05}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{923F7468-4C01-4EE5-BD61-CE89DB0EBF05}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{923F7468-4C01-4EE5-BD61-CE89DB0EBF05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7BD9195-C0BC-4C09-935D-1670AA05F57E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7BD9195-C0BC-4C09-935D-1670AA05F57E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7BD9195-C0BC-4C09-935D-1670AA05F57E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7BD9195-C0BC-4C09-935D-1670AA05F57E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -1005,6 +1011,7 @@ Global
 		{F1EB2BF0-3D37-459E-9EA9-1AEFF6143F16} = {4DF13CD7-E9AE-4ADE-ADBB-EC4928BD728B}
 		{984F87EB-F162-420D-A32D-8D704C86C6CB} = {4DF13CD7-E9AE-4ADE-ADBB-EC4928BD728B}
 		{923F7468-4C01-4EE5-BD61-CE89DB0EBF05} = {4DF13CD7-E9AE-4ADE-ADBB-EC4928BD728B}
+		{B7BD9195-C0BC-4C09-935D-1670AA05F57E} = {4DF13CD7-E9AE-4ADE-ADBB-EC4928BD728B}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {8877039F-4D42-4314-81D1-03E4C7C7078B}

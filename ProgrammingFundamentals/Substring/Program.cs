@@ -11,7 +11,7 @@ namespace Substring
 
             while (input.Contains(removeKey))
             {
-                 input = input.Replace(removeKey, "");
+               input = input.Replace(removeKey, "");
             }
 
             Console.WriteLine(input);
