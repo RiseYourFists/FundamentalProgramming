@@ -317,6 +317,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "StringProcessingExercise", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidUsernames", "ValidUsernames\ValidUsernames.csproj", "{F1DAFEB5-346C-4721-ADD2-B02E62A5D182}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CharMultiplication", "CharMultiplication\CharMultiplication.csproj", "{1464A9E1-A745-41C9-83E4-24AD43498EC8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -883,6 +885,10 @@ Global
 		{F1DAFEB5-346C-4721-ADD2-B02E62A5D182}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F1DAFEB5-346C-4721-ADD2-B02E62A5D182}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F1DAFEB5-346C-4721-ADD2-B02E62A5D182}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1464A9E1-A745-41C9-83E4-24AD43498EC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1464A9E1-A745-41C9-83E4-24AD43498EC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1464A9E1-A745-41C9-83E4-24AD43498EC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1464A9E1-A745-41C9-83E4-24AD43498EC8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -1028,6 +1034,7 @@ Global
 		{B7BD9195-C0BC-4C09-935D-1670AA05F57E} = {4DF13CD7-E9AE-4ADE-ADBB-EC4928BD728B}
 		{93617310-6E88-43B7-9C3B-39FECCB324AE} = {4DF13CD7-E9AE-4ADE-ADBB-EC4928BD728B}
 		{F1DAFEB5-346C-4721-ADD2-B02E62A5D182} = {4BAEC167-BD6F-4523-94FC-B1DED8C54B12}
+		{1464A9E1-A745-41C9-83E4-24AD43498EC8} = {4BAEC167-BD6F-4523-94FC-B1DED8C54B12}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {8877039F-4D42-4314-81D1-03E4C7C7078B}
