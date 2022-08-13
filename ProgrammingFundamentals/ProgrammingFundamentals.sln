@@ -325,6 +325,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExtractFile", "ExtractFile\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiplyBigNumber", "MultiplyBigNumber\MultiplyBigNumber.csproj", "{F3003086-CB52-48D6-8364-4048A0DBAF3F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReplaceRepeatingChars", "ReplaceRepeatingChars\ReplaceRepeatingChars.csproj", "{95159903-ADBB-41A7-80CF-56508C0A118B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -907,6 +909,10 @@ Global
 		{F3003086-CB52-48D6-8364-4048A0DBAF3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F3003086-CB52-48D6-8364-4048A0DBAF3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F3003086-CB52-48D6-8364-4048A0DBAF3F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95159903-ADBB-41A7-80CF-56508C0A118B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95159903-ADBB-41A7-80CF-56508C0A118B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95159903-ADBB-41A7-80CF-56508C0A118B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95159903-ADBB-41A7-80CF-56508C0A118B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -1056,6 +1062,7 @@ Global
 		{51E4DE2F-AEA0-4665-9766-1ABAE02D2CC3} = {4BAEC167-BD6F-4523-94FC-B1DED8C54B12}
 		{AE59D61F-2E78-491E-AFD0-CF4C181649A7} = {4BAEC167-BD6F-4523-94FC-B1DED8C54B12}
 		{F3003086-CB52-48D6-8364-4048A0DBAF3F} = {4BAEC167-BD6F-4523-94FC-B1DED8C54B12}
+		{95159903-ADBB-41A7-80CF-56508C0A118B} = {4BAEC167-BD6F-4523-94FC-B1DED8C54B12}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {8877039F-4D42-4314-81D1-03E4C7C7078B}
