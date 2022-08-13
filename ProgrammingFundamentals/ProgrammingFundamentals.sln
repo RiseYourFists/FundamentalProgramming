@@ -319,9 +319,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ValidUsernames", "ValidUser
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CharMultiplication", "CharMultiplication\CharMultiplication.csproj", "{1464A9E1-A745-41C9-83E4-24AD43498EC8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CaesarCipher", "CaesarCipher\CaesarCipher.csproj", "{51E4DE2F-AEA0-4665-9766-1ABAE02D2CC3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CaesarCipher", "CaesarCipher\CaesarCipher.csproj", "{51E4DE2F-AEA0-4665-9766-1ABAE02D2CC3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtractFile", "ExtractFile\ExtractFile.csproj", "{AE59D61F-2E78-491E-AFD0-CF4C181649A7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExtractFile", "ExtractFile\ExtractFile.csproj", "{AE59D61F-2E78-491E-AFD0-CF4C181649A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiplyBigNumber", "MultiplyBigNumber\MultiplyBigNumber.csproj", "{F3003086-CB52-48D6-8364-4048A0DBAF3F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -901,6 +903,10 @@ Global
 		{AE59D61F-2E78-491E-AFD0-CF4C181649A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AE59D61F-2E78-491E-AFD0-CF4C181649A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AE59D61F-2E78-491E-AFD0-CF4C181649A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3003086-CB52-48D6-8364-4048A0DBAF3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3003086-CB52-48D6-8364-4048A0DBAF3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3003086-CB52-48D6-8364-4048A0DBAF3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3003086-CB52-48D6-8364-4048A0DBAF3F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -1049,6 +1055,7 @@ Global
 		{1464A9E1-A745-41C9-83E4-24AD43498EC8} = {4BAEC167-BD6F-4523-94FC-B1DED8C54B12}
 		{51E4DE2F-AEA0-4665-9766-1ABAE02D2CC3} = {4BAEC167-BD6F-4523-94FC-B1DED8C54B12}
 		{AE59D61F-2E78-491E-AFD0-CF4C181649A7} = {4BAEC167-BD6F-4523-94FC-B1DED8C54B12}
+		{F3003086-CB52-48D6-8364-4048A0DBAF3F} = {4BAEC167-BD6F-4523-94FC-B1DED8C54B12}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {8877039F-4D42-4314-81D1-03E4C7C7078B}
