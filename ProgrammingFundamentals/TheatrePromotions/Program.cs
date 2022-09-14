@@ -13,9 +13,9 @@ namespace TheatrePromotions
                 { 5, 12, 10 }
             };
 
+            var weekState = Console.ReadLine().ToLower();
             var age = int.Parse(Console.ReadLine());
 
-            var weekState = Console.ReadLine();
             var isValidAge = true;
             int iAge = 0;
 
