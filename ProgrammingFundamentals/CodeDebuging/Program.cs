@@ -11,10 +11,10 @@ class HolidaysBetweenTwoDates
     {
 
         var startDate = DateTime.ParseExact(Console.ReadLine(),
-        "d.MM.yyyy", CultureInfo.InvariantCulture);
+        "d.M.yyyy", CultureInfo.InvariantCulture);
 
         var endDate = DateTime.ParseExact(Console.ReadLine(),
-        "d.MM.yyyy", CultureInfo.InvariantCulture);
+        "d.M.yyyy", CultureInfo.InvariantCulture);
 
         var holidaysCount = 0;
 
