@@ -20,7 +20,7 @@ namespace SumOfOddNums
                     sum += i;
                 }
             }
-            Console.WriteLine(sum);
+            Console.WriteLine($"Sum: {sum}");
         }
     }
 }
