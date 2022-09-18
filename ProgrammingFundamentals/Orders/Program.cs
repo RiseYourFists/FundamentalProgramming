@@ -17,7 +17,7 @@ namespace Orders
                 int capsules = int.Parse(Console.ReadLine());
 
                 double cost = price * (days * capsules);
-                Console.WriteLine($"The price for coffee is: ${cost:f2}");
+                Console.WriteLine($"The price for the coffee is: ${cost:f2}");
                 total += cost;
             }
 
