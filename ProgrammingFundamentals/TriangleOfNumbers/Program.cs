@@ -12,7 +12,7 @@ namespace TriangleOfNumbers
             {
                 for (int cols = 1; cols <= rows; cols++)
                 {
-                    Console.Write(rows);
+                    Console.Write(rows + " ");
                 }
                 Console.WriteLine();
             }
