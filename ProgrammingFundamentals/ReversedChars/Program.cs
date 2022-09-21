@@ -17,7 +17,7 @@ namespace ReversedChars
 
             foreach (var item in charHolder)
             {
-                Console.WriteLine(item + " ");
+                Console.Write(item + " ");
             }
         }
     }
