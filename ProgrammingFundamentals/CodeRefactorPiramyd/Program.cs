@@ -7,15 +7,15 @@ namespace CodeRefactorPiramyd
         static void Main(string[] args)
         {
 
-            Console.WriteLine("Length: ");
+            Console.Write("Length: ");
 
             double lenght = double.Parse(Console.ReadLine());
 
-            Console.WriteLine("Width: ");
+            Console.Write("Width: ");
 
             double width = double.Parse(Console.ReadLine());
 
-            Console.WriteLine("Height: ");
+            Console.Write("Height: ");
 
             double height = double.Parse(Console.ReadLine());
 
